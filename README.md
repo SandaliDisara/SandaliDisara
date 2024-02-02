@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandali Disara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate developer and designer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 - 🔭 I’m currently working on [EmoCat](https://github.com/SandaliDisara/EmotionalSupCat)
